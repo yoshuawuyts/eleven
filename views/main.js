@@ -1,6 +1,6 @@
 var html = require('choo/html')
 
-var TITLE = 'drink me.'
+var TITLE = 'Drink me.'
 
 module.exports = view
 
